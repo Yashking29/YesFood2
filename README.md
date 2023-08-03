@@ -34,6 +34,3 @@ This is a Full Stack MERN Application That is used for Food Delivery Companies.
 This Application includes working on Mongo DB , React , Express and Node Js.
 And it also uses HTML css and Javascript for underlying structure
 
-This 
-
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it
